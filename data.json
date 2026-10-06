@@ -1,0 +1,3221 @@
+{
+  "meta": {
+    "title": "World Gym 全台價格查詢",
+    "subtitle": "分店價格・設備・停車資訊",
+    "source": "各點價格20260128更新.xlsx",
+    "updated": "2026-10-06",
+    "branchCount": 137,
+    "note": "本網站為價格查詢工具，實際方案與價格以公司最新公告為準。"
+  },
+  "categoryOrder": [
+    "全省型",
+    "市區型",
+    "Express市區型",
+    "Express新竹市區型",
+    "單館"
+  ],
+  "genericPlans": {
+    "全省型": [
+      {
+        "plan": "一般全省(不含Sport)",
+        "12M": {
+          "fee": 3088,
+          "monthly": 1688
+        },
+        "24M": {
+          "fee": 2588,
+          "monthly": 1588
+        },
+        "36M": {
+          "fee": 2588,
+          "monthly": 1488
+        }
+      },
+      {
+        "plan": "一般全省(含Sport)",
+        "12M": {
+          "fee": 3088,
+          "monthly": 1688
+        },
+        "24M": {
+          "fee": 2888,
+          "monthly": 1588
+        },
+        "36M": {
+          "fee": 2888,
+          "monthly": 1488
+        }
+      },
+      {
+        "plan": "全省Elite(含民生不含101)",
+        "12M": {
+          "fee": 3588,
+          "monthly": 1888
+        },
+        "24M": {
+          "fee": 2888,
+          "monthly": 1788
+        },
+        "36M": {
+          "fee": 2888,
+          "monthly": 1588
+        }
+      },
+      {
+        "plan": "全省Elite(含民生及101)",
+        "12M": {
+          "fee": 3888,
+          "monthly": 2188
+        },
+        "24M": {
+          "fee": 2888,
+          "monthly": 1988
+        },
+        "36M": {
+          "fee": 2888,
+          "monthly": 1788
+        }
+      }
+    ],
+    "市區型": [
+      {
+        "plan": "台北區(含Sport)",
+        "12M": {
+          "fee": 2888,
+          "monthly": 1588
+        },
+        "24M": {
+          "fee": 1888,
+          "monthly": 1488
+        },
+        "36M": {
+          "fee": 1888,
+          "monthly": 1388
+        }
+      },
+      {
+        "plan": "台北區(不含Sport)",
+        "12M": {
+          "fee": 2588,
+          "monthly": 1588
+        },
+        "24M": {
+          "fee": 1588,
+          "monthly": 1488
+        },
+        "36M": {
+          "fee": 1588,
+          "monthly": 1388
+        }
+      },
+      {
+        "plan": "台北區Elite(含民生不含101)",
+        "12M": {
+          "fee": 3888,
+          "monthly": 1788
+        },
+        "24M": {
+          "fee": 2888,
+          "monthly": 1688
+        },
+        "36M": {
+          "fee": 2888,
+          "monthly": 1488
+        }
+      },
+      {
+        "plan": "台北區Elite(含民生及101)",
+        "12M": {
+          "fee": 3888,
+          "monthly": 2088
+        },
+        "24M": {
+          "fee": 2888,
+          "monthly": 1888
+        },
+        "36M": {
+          "fee": 2888,
+          "monthly": 1688
+        }
+      },
+      {
+        "plan": "桃園區(含Sport)",
+        "12M": {
+          "fee": 2888,
+          "monthly": 1588
+        },
+        "24M": {
+          "fee": 1888,
+          "monthly": 1488
+        },
+        "36M": {
+          "fee": 1888,
+          "monthly": 1388
+        }
+      },
+      {
+        "plan": "桃園區(不含Sport)",
+        "12M": {
+          "fee": 2588,
+          "monthly": 1588
+        },
+        "24M": {
+          "fee": 1588,
+          "monthly": 1488
+        },
+        "36M": {
+          "fee": 1588,
+          "monthly": 1388
+        }
+      },
+      {
+        "plan": "新竹市區(含Sport)",
+        "12M": {
+          "fee": 2888,
+          "monthly": 1588
+        },
+        "24M": {
+          "fee": 1888,
+          "monthly": 1488
+        },
+        "36M": {
+          "fee": 1888,
+          "monthly": 1388
+        }
+      },
+      {
+        "plan": "新竹市區(不含Sport)",
+        "12M": {
+          "fee": 2588,
+          "monthly": 1588
+        },
+        "24M": {
+          "fee": 1588,
+          "monthly": 1488
+        },
+        "36M": {
+          "fee": 1588,
+          "monthly": 1388
+        }
+      },
+      {
+        "plan": "台中市區(含Sport)",
+        "12M": {
+          "fee": 2588,
+          "monthly": 1488
+        },
+        "24M": {
+          "fee": 1888,
+          "monthly": 1388
+        },
+        "36M": {
+          "fee": 1888,
+          "monthly": 1288
+        }
+      },
+      {
+        "plan": "台中市區(不含Sport)",
+        "12M": {
+          "fee": 2288,
+          "monthly": 1488
+        },
+        "24M": {
+          "fee": 1588,
+          "monthly": 1388
+        },
+        "36M": {
+          "fee": 1588,
+          "monthly": 1288
+        }
+      },
+      {
+        "plan": "台南市區(含Sport)",
+        "12M": {
+          "fee": 2488,
+          "monthly": 1488
+        },
+        "24M": {
+          "fee": 1888,
+          "monthly": 1388
+        },
+        "36M": {
+          "fee": 1888,
+          "monthly": 1288
+        }
+      },
+      {
+        "plan": "台南市區(不含Sport)",
+        "12M": {
+          "fee": 2288,
+          "monthly": 1488
+        },
+        "24M": {
+          "fee": 1588,
+          "monthly": 1388
+        },
+        "36M": {
+          "fee": 1588,
+          "monthly": 1288
+        }
+      },
+      {
+        "plan": "嘉義市區(含Sport)",
+        "12M": {
+          "fee": 2588,
+          "monthly": 1488
+        },
+        "24M": {
+          "fee": 1888,
+          "monthly": 1388
+        },
+        "36M": {
+          "fee": 1888,
+          "monthly": 1288
+        }
+      },
+      {
+        "plan": "高屏市區(含Sport)",
+        "12M": {
+          "fee": 2488,
+          "monthly": 1488
+        },
+        "24M": {
+          "fee": 1888,
+          "monthly": 1388
+        },
+        "36M": {
+          "fee": 1888,
+          "monthly": 1288
+        }
+      },
+      {
+        "plan": "高屏市區(不含Sport)",
+        "12M": {
+          "fee": 2288,
+          "monthly": 1488
+        },
+        "24M": {
+          "fee": 1588,
+          "monthly": 1388
+        },
+        "36M": {
+          "fee": 1588,
+          "monthly": 1288
+        }
+      }
+    ],
+    "Express市區型": [
+      {
+        "plan": "市區型",
+        "12M": {
+          "fee": 2088,
+          "monthly": 1088
+        },
+        "24M": {
+          "fee": 1288,
+          "monthly": 688
+        },
+        "36M": {
+          "fee": 788,
+          "monthly": 688
+        }
+      }
+    ],
+    "Express新竹市區型": [
+      {
+        "plan": "市區型",
+        "12M": {
+          "fee": 2088,
+          "monthly": 1188
+        },
+        "24M": {
+          "fee": 1288,
+          "monthly": 788
+        },
+        "36M": {
+          "fee": 1000,
+          "monthly": 788
+        }
+      }
+    ]
+  },
+  "branches": [
+    {
+      "id": "r40",
+      "code": "13",
+      "name": "101 Elite(101)",
+      "displayName": "13-101 Elite(101)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 3888,
+        "monthly": 1988
+      },
+      "24M": {
+        "fee": 1888,
+        "monthly": 1788
+      },
+      "36M": {
+        "fee": 1888,
+        "monthly": 1588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r41",
+      "code": "22",
+      "name": "民生 Elite(MS)",
+      "displayName": "22-民生 Elite(MS)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 3288,
+        "monthly": 1688
+      },
+      "24M": {
+        "fee": 1888,
+        "monthly": 1588
+      },
+      "36M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "parking": "",
+      "equipment": "泳池20M3水道水深150/Purmotion"
+    },
+    {
+      "id": "r42",
+      "code": "69",
+      "name": "基隆Spor(KL)",
+      "displayName": "69-基隆Spor(KL)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "免費3小時",
+      "equipment": "泳池25M3水道水深120/壁球場/Real Ryder搖擺飛輪/MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r43",
+      "code": "26",
+      "name": "北新莊Spor(HZ2)",
+      "displayName": "26-北新莊Spor(HZ2)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "",
+      "equipment": "壁球場/Purmotion/攀岩機/划船機"
+    },
+    {
+      "id": "r44",
+      "code": "28",
+      "name": "永和Sport(YH)",
+      "displayName": "28-永和Sport(YH)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "",
+      "equipment": "泳池20M4水道水深110/划船機/沖水水柱"
+    },
+    {
+      "id": "r45",
+      "code": "52",
+      "name": "大直Sport(DZ)",
+      "displayName": "52-大直Sport(DZ)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "免費2小時",
+      "equipment": "泳池23M2水道水深115/Monkey Bar/MMA綜合武術訓練擂台/划船機/RealRyder搖擺飛輪"
+    },
+    {
+      "id": "r46",
+      "code": "58",
+      "name": "光復Sport(GF)",
+      "displayName": "58-光復Sport(GF)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "",
+      "equipment": "泳池25M2水道水深120/Stages Flight飛輪"
+    },
+    {
+      "id": "r47",
+      "code": "98",
+      "name": "板橋重慶Sport(BQCQ)",
+      "displayName": "98-板橋重慶Sport(BQCQ)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "",
+      "equipment": "桌球室/反重力體適能"
+    },
+    {
+      "id": "r48",
+      "code": "133",
+      "name": "土城海山Sport(HS)",
+      "displayName": "133-土城海山Sport(HS)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r49",
+      "code": "59",
+      "name": "麗水Express(LS)",
+      "displayName": "59-麗水Express(LS)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r50",
+      "code": "74",
+      "name": "民權西Express(MQW)",
+      "displayName": "74-民權西Express(MQW)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r51",
+      "code": "75",
+      "name": "泰山Express(TSH)",
+      "displayName": "75-泰山Express(TSH)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r52",
+      "code": "86",
+      "name": "土城中央Express(ZY)",
+      "displayName": "86-土城中央Express(ZY)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r53",
+      "code": "88",
+      "name": "蘆洲Express(LZ)",
+      "displayName": "88-蘆洲Express(LZ)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": "蒸氣室/烤箱/Hammer/Hoist"
+    },
+    {
+      "id": "r54",
+      "code": "109",
+      "name": "寧夏Express(NX)",
+      "displayName": "109-寧夏Express(NX)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": "烤箱/Hammer/Hoist"
+    },
+    {
+      "id": "r55",
+      "code": "111",
+      "name": "北安Express(DZBA)",
+      "displayName": "111-北安Express(DZBA)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": "烤箱/Hammer/Hoist/Booty Coaster"
+    },
+    {
+      "id": "r56",
+      "code": "114",
+      "name": "通化Express(TPTH)",
+      "displayName": "114-通化Express(TPTH)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": "烤箱/Hammer/Hoist/5分鐘腹部核心訓練區"
+    },
+    {
+      "id": "r57",
+      "code": "128",
+      "name": "三峽Express(TPSX)",
+      "displayName": "128-三峽Express(TPSX)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r58",
+      "code": "127",
+      "name": "景美Express(JM)",
+      "displayName": "127-景美Express(JM)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r59",
+      "code": "135",
+      "name": "木柵Express(TPMZ)",
+      "displayName": "135-木柵Express(TPMZ)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r60",
+      "code": "120",
+      "name": "三重五華Ex Pro(SCWH)",
+      "displayName": "120-三重五華Ex Pro(SCWH)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2088,
+        "monthly": 1088
+      },
+      "24M": {
+        "fee": 1288,
+        "monthly": 688
+      },
+      "36M": {
+        "fee": 788,
+        "monthly": 688
+      },
+      "parking": "",
+      "equipment": "一定要加小團體課，月費488可上4堂，月費688可上8堂，月費888可上12堂。"
+    },
+    {
+      "id": "r61",
+      "code": "14",
+      "name": "大安©(DA)",
+      "displayName": "14-大安©(DA)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "",
+      "equipment": "XSPA"
+    },
+    {
+      "id": "r62",
+      "code": "15",
+      "name": "統領©(TL)",
+      "displayName": "15-統領©(TL)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "",
+      "equipment": "划船機"
+    },
+    {
+      "id": "r63",
+      "code": "16",
+      "name": "西門©(HM)",
+      "displayName": "16-西門©(HM)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "",
+      "equipment": "Purmotion/Monkey Bar/划船機"
+    },
+    {
+      "id": "r64",
+      "code": "17",
+      "name": "站前©(TS)",
+      "displayName": "17-站前©(TS)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "",
+      "equipment": "Purmotion/XSPA"
+    },
+    {
+      "id": "r65",
+      "code": "18",
+      "name": "天母©(TM)",
+      "displayName": "18-天母©(TM)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "",
+      "equipment": "室外泳池15M3水道水深150/戶外休憩區/戶外SPA池/X蒸氣室"
+    },
+    {
+      "id": "r66",
+      "code": "09",
+      "name": "內湖(NH)",
+      "displayName": "09-內湖(NH)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費1.5小時",
+      "equipment": ""
+    },
+    {
+      "id": "r67",
+      "code": "37",
+      "name": "福華(FH)",
+      "displayName": "37-福華(FH)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費1小時",
+      "equipment": "Monkey Bar/划船機"
+    },
+    {
+      "id": "r68",
+      "code": "31",
+      "name": "南京(NJ)",
+      "displayName": "31-南京(NJ)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "",
+      "equipment": "MyBodee/划船機"
+    },
+    {
+      "id": "r69",
+      "code": "56",
+      "name": "松隆(SL)",
+      "displayName": "56-松隆(SL)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費1小時",
+      "equipment": "Real Ryder搖擺飛輪/反重力體適能/MMA綜合武術訓練擂台/划船機"
+    },
+    {
+      "id": "r70",
+      "code": "62",
+      "name": "松仁(SR)",
+      "displayName": "62-松仁(SR)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "反重力體適能/划船機/X飛輪X蒸氣"
+    },
+    {
+      "id": "r71",
+      "code": "70",
+      "name": "天母德行(DX)",
+      "displayName": "70-天母德行(DX)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "Stages Flight飛輪/反重力體適能"
+    },
+    {
+      "id": "r72",
+      "code": "78",
+      "name": "長春(CC)",
+      "displayName": "78-長春(CC)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r73",
+      "code": "85",
+      "name": "民權東(MQE)",
+      "displayName": "85-民權東(MQE)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "Stages Flight飛輪/反重力體適能/MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r74",
+      "code": "34",
+      "name": "公館(TG)",
+      "displayName": "34-公館(TG)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "MyBodee"
+    },
+    {
+      "id": "r75",
+      "code": "49",
+      "name": "汐止(XZ)",
+      "displayName": "49-汐止(XZ)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": "反重力體適能/MMA綜合武術訓練擂台/Monkey Bar"
+    },
+    {
+      "id": "r76",
+      "code": "10",
+      "name": "新店(HD)",
+      "displayName": "10-新店(HD)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "免費3小時",
+      "equipment": "泳池18M水深110/舒眠區"
+    },
+    {
+      "id": "r77",
+      "code": "12",
+      "name": "新莊(HZ)",
+      "displayName": "12-新莊(HZ)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "划船機/冷水池"
+    },
+    {
+      "id": "r78",
+      "code": "23",
+      "name": "板橋府中(BQ)",
+      "displayName": "23-板橋府中(BQ)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r79",
+      "code": "48",
+      "name": "板橋雙十(BS)",
+      "displayName": "48-板橋雙十(BS)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": "Real Ryder搖擺飛輪/反重力體適能/MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r80",
+      "code": "43",
+      "name": "板橋中山(BZ)",
+      "displayName": "43-板橋中山(BZ)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "反重力體適能/MMA綜合武術訓練擂台/Monkey Bar/划船機"
+    },
+    {
+      "id": "r81",
+      "code": "25",
+      "name": "中和(ZH)",
+      "displayName": "25-中和(ZH)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "X蒸氣室"
+    },
+    {
+      "id": "r82",
+      "code": "33",
+      "name": "景平(JP)",
+      "displayName": "33-景平(JP)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": "MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r83",
+      "code": "47",
+      "name": "永和民權(YM)",
+      "displayName": "47-永和民權(YM)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": "Stages Flight飛輪/反重力體適能/MMA綜合武術訓練擂台/Monkey Bar/划船機"
+    },
+    {
+      "id": "r84",
+      "code": "39",
+      "name": "三重(SC)",
+      "displayName": "39-三重(SC)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "旋轉攀岩牆/反重力體適能/Monkey Bar"
+    },
+    {
+      "id": "r85",
+      "code": "35",
+      "name": "淡水(DS)",
+      "displayName": "35-淡水(DS)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": ""
+    },
+    {
+      "id": "r86",
+      "code": "51",
+      "name": "土城(TUC)",
+      "displayName": "51-土城(TUC)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": "Real Ryder搖擺飛輪/反重力體適能/MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r87",
+      "code": "30",
+      "name": "林口(LK)",
+      "displayName": "30-林口(LK)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費3小時",
+      "equipment": ""
+    },
+    {
+      "id": "r88",
+      "code": "98",
+      "name": "北投中和(BT)",
+      "displayName": "98-北投中和(BT)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "反重力體適能/Hoist連動式器材/X飛輪X烤箱X蒸氣室XSPA"
+    },
+    {
+      "id": "r89",
+      "code": "110",
+      "name": "民生圓環(MSYH)",
+      "displayName": "110-民生圓環(MSYH)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "反重力體適能/Hoist連動式器材/XSPA"
+    },
+    {
+      "id": "r90",
+      "code": "116",
+      "name": "內湖港墘(NHGQ)",
+      "displayName": "116-內湖港墘(NHGQ)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": "Hammer/Hoist連動式器材/X飛輪"
+    },
+    {
+      "id": "r91",
+      "code": "40",
+      "name": "友愛(YA)",
+      "displayName": "40-友愛(YA)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "旋轉攀岩牆/反重力體適能"
+    },
+    {
+      "id": "r92",
+      "code": "41",
+      "name": "羅東(YL)",
+      "displayName": "41-羅東(YL)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": ""
+    },
+    {
+      "id": "r93",
+      "code": "51",
+      "name": "花蓮國聯(HL)",
+      "displayName": "51-花蓮國聯(HL)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": "反重力體適能/MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r94",
+      "code": "131",
+      "name": "花蓮吉安Sport(HLJA)",
+      "displayName": "131-花蓮吉安Sport(HLJA)",
+      "region": "北北基宜花區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r96",
+      "code": "60",
+      "name": "國強Sport(GQ)",
+      "displayName": "60-國強Sport(GQ)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "免費3小時",
+      "equipment": "室內外泳池25M6水道水深110/120/籃球場/反重力體適能/兒童區/MMA綜合武術訓練擂台/冷熱按摩池"
+    },
+    {
+      "id": "r97",
+      "code": "68",
+      "name": "內壢Sport(NL)",
+      "displayName": "68-內壢Sport(NL)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "免費3小時",
+      "equipment": "壁球場/Stages Flight飛輪/反重力體適能"
+    },
+    {
+      "id": "r98",
+      "code": "72",
+      "name": "桃園南崁Express(NK)",
+      "displayName": "72-桃園南崁Express(NK)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r99",
+      "code": "106",
+      "name": "大園Express(TYDY)",
+      "displayName": "106-大園Express(TYDY)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "免費2小時",
+      "equipment": "烤箱/Hoist"
+    },
+    {
+      "id": "r100",
+      "code": "123",
+      "name": "中壢中山Express(JLZS)",
+      "displayName": "123-中壢中山Express(JLZS)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r101",
+      "code": "20",
+      "name": "中壢中原(JLZY)",
+      "displayName": "20-中壢中原(JLZY)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r102",
+      "code": "27",
+      "name": "桃園復興(TY)",
+      "displayName": "27-桃園復興(TY)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": "Purmotion/MyBodee"
+    },
+    {
+      "id": "r103",
+      "code": "32",
+      "name": "桃園大有(DY)",
+      "displayName": "32-桃園大有(DY)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費3小時",
+      "equipment": ""
+    },
+    {
+      "id": "r104",
+      "code": "94",
+      "name": "桃園平鎮(PZ)",
+      "displayName": "94-桃園平鎮(PZ)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": "反重力體適能/X蒸氣室X烤箱X飛輪"
+    },
+    {
+      "id": "r105",
+      "code": "117",
+      "name": "桃園楊梅(TYYM)",
+      "displayName": "117-桃園楊梅(TYYM)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "X飛輪"
+    },
+    {
+      "id": "r106",
+      "code": "122",
+      "name": "桃園台茂(TYTM)",
+      "displayName": "122-桃園台茂(TYTM)",
+      "region": "桃園區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "",
+      "equipment": "X飛輪"
+    },
+    {
+      "id": "r108",
+      "code": "21",
+      "name": "中華Sport(HCZH)",
+      "displayName": "21-中華Sport(HCZH)",
+      "region": "新竹區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "有停車場",
+      "equipment": "泳池25M水深120"
+    },
+    {
+      "id": "r109",
+      "code": "45",
+      "name": "竹北Sport(XB)",
+      "displayName": "45-竹北Sport(XB)",
+      "region": "新竹區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "免費3小時",
+      "equipment": "泳池22M3水道水深120/MMA綜合武術訓練擂台/反重力體適能/RealRyder搖擺飛輪"
+    },
+    {
+      "id": "r110",
+      "code": "11",
+      "name": "竹蓮Express(HCZL)",
+      "displayName": "11-竹蓮Express(HCZL)",
+      "region": "新竹區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 688
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 688
+      },
+      "parking": "",
+      "equipment": "蒸氣室/烤箱/Hammer/Hoist/毛巾+100/一定要加櫃子月費388"
+    },
+    {
+      "id": "r111",
+      "code": "125",
+      "name": "新竹光復Ex Pro(HCGF)",
+      "displayName": "125-新竹光復Ex Pro(HCGF)",
+      "region": "新竹區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 688
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 688
+      },
+      "parking": "",
+      "equipment": "一定要加小團體課，月費488可上4堂，月費688可上8堂，月費888可上12堂。"
+    },
+    {
+      "id": "r112",
+      "code": "38",
+      "name": "新竹中正(ZZ)",
+      "displayName": "38-新竹中正(ZZ)",
+      "region": "新竹區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": "旋轉攀岩牆/反重力體適能"
+    },
+    {
+      "id": "r113",
+      "code": "141",
+      "name": "新竹新豐(HCXF)",
+      "displayName": "141-新竹新豐(HCXF)",
+      "region": "新竹區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費2小時",
+      "equipment": "X蒸氣室"
+    },
+    {
+      "id": "r114",
+      "code": "143",
+      "name": "竹北華興( ZBHX)",
+      "displayName": "143-竹北華興( ZBHX)",
+      "region": "新竹區",
+      "12M": {
+        "fee": 2888,
+        "monthly": 1588
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "免費2小時",
+      "equipment": "兒童區"
+    },
+    {
+      "id": "r115",
+      "code": "144",
+      "name": "新竹香山(HCXS)",
+      "displayName": "144-新竹香山(HCXS)",
+      "region": "新竹區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "parking": "",
+      "equipment": "預售中"
+    },
+    {
+      "id": "r117",
+      "code": "76",
+      "name": "竹南(ZN)",
+      "displayName": "76-竹南(ZN)",
+      "region": "苗栗(竹南跟頭份隸屬新竹區，苑裡隸屬台中區)",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 788
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 788
+      },
+      "parking": "",
+      "equipment": "X團體課程X飛輪X毛巾"
+    },
+    {
+      "id": "r118",
+      "code": "81",
+      "name": "苑裡(YL)",
+      "displayName": "81-苑裡(YL)",
+      "region": "苗栗(竹南跟頭份隸屬新竹區，苑裡隸屬台中區)",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1288
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "parking": "有停車場",
+      "equipment": "XSPAX飛輪"
+    },
+    {
+      "id": "r119",
+      "code": "124",
+      "name": "頭份(TF)",
+      "displayName": "124-頭份(TF)",
+      "region": "苗栗(竹南跟頭份隸屬新竹區，苑裡隸屬台中區)",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r121",
+      "code": "89",
+      "name": "豐原Sport(FY)",
+      "displayName": "89-豐原Sport(FY)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "有停車場",
+      "equipment": "泳池25M3水道水深110/Stages Flight飛輪/反重力體適能/Booty Coaster/MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r122",
+      "code": "102",
+      "name": "東山Sport(TCDS)",
+      "displayName": "102-東山Sport(TCDS)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "免費2小時",
+      "equipment": "泳池25M3水道水深120/Stages Flight飛輪/反重力體適能/MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r123",
+      "code": "118",
+      "name": "太平Sport(TCTP)",
+      "displayName": "118-太平Sport(TCTP)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r124",
+      "code": "",
+      "name": "一中©(TE)",
+      "displayName": "一中©(TE)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "",
+      "equipment": "划船機/Purmotion多功能"
+    },
+    {
+      "id": "r125",
+      "code": "97",
+      "name": "台中進化北Express(JH)",
+      "displayName": "97-台中進化北Express(JH)",
+      "region": "台中區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "免費2小時",
+      "equipment": "蒸氣室/烤箱/Hammer/Hoist"
+    },
+    {
+      "id": "r126",
+      "code": "99",
+      "name": "台中東興Express(TCDX)",
+      "displayName": "99-台中東興Express(TCDX)",
+      "region": "台中區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "免費2小時",
+      "equipment": "蒸氣室/烤箱/Hammer/Hoist"
+    },
+    {
+      "id": "r127",
+      "code": "113",
+      "name": "台中東海Express(TXDH)",
+      "displayName": "113-台中東海Express(TXDH)",
+      "region": "台中區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": "烤箱/Hammer/Hoist/戶外休息區"
+    },
+    {
+      "id": "r128",
+      "code": "119",
+      "name": "台中潭子Express(TCTZ)",
+      "displayName": "119-台中潭子Express(TCTZ)",
+      "region": "台中區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r129",
+      "code": "130",
+      "name": "大里中興Express(DLZX)",
+      "displayName": "130-大里中興Express(DLZX)",
+      "region": "台中區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r130",
+      "code": "121",
+      "name": "台中文心Ex Pro(TCWX)",
+      "displayName": "121-台中文心Ex Pro(TCWX)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2088,
+        "monthly": 1088
+      },
+      "24M": {
+        "fee": 1288,
+        "monthly": 688
+      },
+      "36M": {
+        "fee": 788,
+        "monthly": 688
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r131",
+      "code": "01",
+      "name": "學府(XF)",
+      "displayName": "01-學府(XF)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "泳池25M水深110/反重力體適能/MMA綜合武術訓練擂台/Monkey Bar"
+    },
+    {
+      "id": "r132",
+      "code": "02",
+      "name": "台中sogo(TC)",
+      "displayName": "02-台中sogo(TC)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費1小時",
+      "equipment": "日曬機(200元/次)/反重力體適能/划船機"
+    },
+    {
+      "id": "r133",
+      "code": "36",
+      "name": "崇德(CD)",
+      "displayName": "36-崇德(CD)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": "旋轉攀岩牆"
+    },
+    {
+      "id": "r134",
+      "code": "42",
+      "name": "西屯(XT)",
+      "displayName": "42-西屯(XT)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": "戶外籃球場/反重力體適能/MMA綜合武術訓練擂台/Monkey Bar"
+    },
+    {
+      "id": "r135",
+      "code": "57",
+      "name": "黎明(LM)",
+      "displayName": "57-黎明(LM)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": "泳池25M水深120/反重力體適能/MMA綜合武術訓練擂台/RealRyder搖擺飛輪"
+    },
+    {
+      "id": "r136",
+      "code": "80",
+      "name": "大甲(DJ)",
+      "displayName": "80-大甲(DJ)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": "反重力體適能/X飛輪"
+    },
+    {
+      "id": "r137",
+      "code": "84",
+      "name": "清水(CS)",
+      "displayName": "84-清水(CS)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": "Real Ryder搖擺飛輪/反重力體適能"
+    },
+    {
+      "id": "r138",
+      "code": "100",
+      "name": "烏日(TCWR)",
+      "displayName": "100-烏日(TCWR)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "X飛輪"
+    },
+    {
+      "id": "r139",
+      "code": "108",
+      "name": "大雅(TCDY)",
+      "displayName": "108-大雅(TCDY)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費1小時",
+      "equipment": "反重力體適能/Booty Coaster/RealRyder搖擺飛輪"
+    },
+    {
+      "id": "r140",
+      "code": "115",
+      "name": "沙鹿(TCSL)",
+      "displayName": "115-沙鹿(TCSL)",
+      "region": "台中區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": "戶外多功能核心訓練區/X蒸氣室"
+    },
+    {
+      "id": "r142",
+      "code": "101",
+      "name": "鹿港(CHLG)",
+      "displayName": "101-鹿港(CHLG)",
+      "region": "彰化(隸屬台中區)",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "",
+      "equipment": "反重力體適能/X蒸氣室X烤箱X飛輪"
+    },
+    {
+      "id": "r143",
+      "code": "50",
+      "name": "員林(YUL)",
+      "displayName": "50-員林(YUL)",
+      "region": "彰化(隸屬台中區)",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": "Stages Flight飛輪/反重力體適能/Hoist連動式器材"
+    },
+    {
+      "id": "r144",
+      "code": "96",
+      "name": "彰化和平(CHHP)",
+      "displayName": "96-彰化和平(CHHP)",
+      "region": "彰化(隸屬台中區)",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "Stages Flight飛輪/反重力體適能"
+    },
+    {
+      "id": "r145",
+      "code": "145",
+      "name": "彰化溪湖(CHXH)",
+      "displayName": "145-彰化溪湖(CHXH)",
+      "region": "彰化(隸屬台中區)",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "",
+      "equipment": "預售中"
+    },
+    {
+      "id": "r147",
+      "code": "95",
+      "name": "南投草屯(CT)",
+      "displayName": "95-南投草屯(CT)",
+      "region": "南投(隸屬台中區)",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "反重力體適能/X飛輪XSPA"
+    },
+    {
+      "id": "r149",
+      "code": "107",
+      "name": "雲林斗六Sport(DL)",
+      "displayName": "107-雲林斗六Sport(DL)",
+      "region": "雲林區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1488
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1388
+      },
+      "parking": "免費2小時",
+      "equipment": "泳池25M水深120/反重力體適能/Hoist連動式器材"
+    },
+    {
+      "id": "r150",
+      "code": "134",
+      "name": "雲林虎尾(HW)",
+      "displayName": "134-雲林虎尾(HW)",
+      "region": "雲林區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r152",
+      "code": "93",
+      "name": "嘉義民族(CYMZ)",
+      "displayName": "93-嘉義民族(CYMZ)",
+      "region": "嘉義區",
+      "12M": {
+        "fee": 2288,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "Real Ryder搖擺飛輪/反重力體適能/MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r153",
+      "code": "142",
+      "name": "嘉義興業( CYXY)",
+      "displayName": "142- 嘉義興業( CYXY)",
+      "region": "嘉義區",
+      "12M": {
+        "fee": 2588,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "parking": "免費3小時",
+      "equipment": "室內籃球場/泳池25M 3水道"
+    },
+    {
+      "id": "r155",
+      "code": "67",
+      "name": "永康Sport(YK)",
+      "displayName": "67-永康Sport(YK)",
+      "region": "台南區",
+      "12M": {
+        "fee": 2488,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "免費3小時",
+      "equipment": "泳池23M水深120/3水道/兒童區"
+    },
+    {
+      "id": "r156",
+      "code": "83",
+      "name": "西門Sport(TNXM)",
+      "displayName": "83-西門Sport(TNXM)",
+      "region": "台南區",
+      "12M": {
+        "fee": 2488,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "免費3小時",
+      "equipment": "戶外籃球場/壁球場/反重力體適能/MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r157",
+      "code": "82",
+      "name": "中華西Express(ZHW)",
+      "displayName": "82-中華西Express(ZHW)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "免費2小時",
+      "equipment": "蒸氣室/烤箱/Hammer"
+    },
+    {
+      "id": "r158",
+      "code": "104",
+      "name": "台南新營(XY)",
+      "displayName": "104-台南新營(XY)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1288
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "parking": "",
+      "equipment": "蒸氣室/烤箱/Hoist連動式器材/無毛巾服務"
+    },
+    {
+      "id": "r159",
+      "code": "05",
+      "name": "FOCUS(TN)",
+      "displayName": "05-FOCUS(TN)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": ""
+    },
+    {
+      "id": "r160",
+      "code": "06",
+      "name": "國賓(GB)",
+      "displayName": "06-國賓(GB)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "X烤箱XSPA"
+    },
+    {
+      "id": "r161",
+      "code": "29",
+      "name": "長榮(CR)",
+      "displayName": "29-長榮(CR)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": ""
+    },
+    {
+      "id": "r162",
+      "code": "77",
+      "name": "台南樹林(SUL)",
+      "displayName": "77-台南樹林(SUL)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "",
+      "equipment": "反重力體適能"
+    },
+    {
+      "id": "r163",
+      "code": "91",
+      "name": "台南善化(TNSH)",
+      "displayName": "91-台南善化(TNSH)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "有停車場",
+      "equipment": "反重力體適能/X蒸氣室"
+    },
+    {
+      "id": "r164",
+      "code": "136",
+      "name": "台南安平(TNAP)",
+      "displayName": "136-台南安平(TNAP)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1288
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "parking": "",
+      "equipment": "前深呼吸分店皆無毛巾服務"
+    },
+    {
+      "id": "r165",
+      "code": "139",
+      "name": "台南安南(TNAN)",
+      "displayName": "139-台南安南(TNAN)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1288
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r166",
+      "code": "138",
+      "name": "台南海安(TNHA)",
+      "displayName": "138-台南海安(TNHA)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1288
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r167",
+      "code": "137",
+      "name": "台南仁德(TNRD)",
+      "displayName": "137-台南仁德(TNRD)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1288
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r168",
+      "code": "140",
+      "name": "永康永大(YKYD)",
+      "displayName": "140-永康永大(YKYD)",
+      "region": "台南區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1288
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r170",
+      "code": "105",
+      "name": "高雄陽明Sport(KHYM)",
+      "displayName": "105-高雄陽明Sport(KHYM)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 2488,
+        "monthly": 1488
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1288
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 1188
+      },
+      "parking": "免費2小時",
+      "equipment": "泳池22M水深120雙水道/室內籃球場/桌球室/反重力體適能/兒童區/Stages Flight/划船機"
+    },
+    {
+      "id": "r171",
+      "code": "65",
+      "name": "楠梓Express(NZ)",
+      "displayName": "65-楠梓Express(NZ)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "有停車場",
+      "equipment": ""
+    },
+    {
+      "id": "r172",
+      "code": "90",
+      "name": "文衡Express(FSWH)",
+      "displayName": "90-文衡Express(FSWH)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "有停車場",
+      "equipment": "蒸氣室/烤箱/Hoist連動式器材/Hammer"
+    },
+    {
+      "id": "r173",
+      "code": "87",
+      "name": "博愛Express(XH)",
+      "displayName": "87-博愛Express(XH)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": "蒸氣室/烤箱/Hoist連動式器材/Hammer"
+    },
+    {
+      "id": "r174",
+      "code": "103",
+      "name": "屏東逢甲Express(PTFJ)",
+      "displayName": "103-屏東逢甲Express(PTFJ)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": "蒸氣室/烤箱/五分鐘腹部核心訓練區/Hoist連動式器材"
+    },
+    {
+      "id": "r175",
+      "code": "112",
+      "name": "屏東東港Express(PTDG)",
+      "displayName": "112-屏東東港Express(PTDG)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "免費2小時",
+      "equipment": "蒸氣室/烤箱/Hoist連動式器材/5分鐘腹部核心訓練區/戶外多功能核心區"
+    },
+    {
+      "id": "r176",
+      "code": "65",
+      "name": "楠梓興楠Express(NZ)",
+      "displayName": "65-楠梓興楠Express(NZ)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1000,
+        "monthly": 888
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 588
+      },
+      "36M": {
+        "fee": 500,
+        "monthly": 588
+      },
+      "parking": "",
+      "equipment": ""
+    },
+    {
+      "id": "r177",
+      "code": "132",
+      "name": "鳳山五甲(FSWJ)",
+      "displayName": "132-鳳山五甲(FSWJ)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": ""
+    },
+    {
+      "id": "r178",
+      "code": "126",
+      "name": "高雄左營(KHZY)",
+      "displayName": "126-高雄左營(KHZY)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "有停車場",
+      "equipment": ""
+    },
+    {
+      "id": "r179",
+      "code": "03",
+      "name": "高雄SOGO(KS)",
+      "displayName": "03-高雄SOGO(KS)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "泳池20M水深120/4水道/Float Fit水上課程"
+    },
+    {
+      "id": "r180",
+      "code": "07",
+      "name": "寶成(KB)",
+      "displayName": "07-寶成(KB)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "泳池20M水深120"
+    },
+    {
+      "id": "r181",
+      "code": "53",
+      "name": "高雄中華(KZ)",
+      "displayName": "53-高雄中華(KZ)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "MMA綜合武術訓練擂台/反重力體適能/划船機"
+    },
+    {
+      "id": "r182",
+      "code": "63",
+      "name": "岡山(GS)",
+      "displayName": "63-岡山(GS)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": "MMA綜合武術訓練擂台/Real Ryder搖擺飛輪/反重力體適能"
+    },
+    {
+      "id": "r183",
+      "code": "66",
+      "name": "鳳山中山(FS)",
+      "displayName": "66-鳳山中山(FS)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r184",
+      "code": "71",
+      "name": "大統和平(HP)",
+      "displayName": "71-大統和平(HP)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費2小時",
+      "equipment": "反重力體適能/MMA綜合武術訓練擂台"
+    },
+    {
+      "id": "r185",
+      "code": "45",
+      "name": "屏東自由(PT)",
+      "displayName": "45-屏東自由(PT)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "折抵3小時",
+      "equipment": "泳池25M水深130/旋轉攀岩牆/Real Ryder搖擺飛輪/反重力體適能/壁球場/Monkey Bar"
+    },
+    {
+      "id": "r186",
+      "code": "79",
+      "name": "屏東潮州(CZ)",
+      "displayName": "79-屏東潮州(CZ)",
+      "region": "高屏區",
+      "12M": {
+        "fee": 1888,
+        "monthly": 1388
+      },
+      "24M": {
+        "fee": 1000,
+        "monthly": 1088
+      },
+      "36M": {
+        "fee": 1000,
+        "monthly": 988
+      },
+      "parking": "免費3小時",
+      "equipment": "反重力體適能/MMA綜合武術訓練擂台/XSPAX飛輪"
+    }
+  ]
+}

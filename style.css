@@ -1,0 +1,44 @@
+*{box-sizing:border-box}:root{--bg:#f4f4f4;--card:#fff;--ink:#111;--muted:#6f6f6f;--line:#e3e3e3;--accent:#e31b23;--accent-dark:#b61218;--dark:#111;--soft-red:#fff1f2}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Noto Sans TC","Microsoft JhengHei",Arial,sans-serif}button,input{font:inherit}button{cursor:pointer}.topbar{position:sticky;top:0;z-index:20;height:68px;padding:10px max(18px,calc((100vw - 980px)/2));display:flex;align-items:center;justify-content:space-between;background:rgba(17,17,17,.96);color:#fff;backdrop-filter:blur(12px)}.brand{display:flex;gap:10px;align-items:center}.brand-mark{width:66px;height:44px;border-radius:10px;background:#fff;display:grid;place-items:center;overflow:hidden;padding:4px;border:1px solid rgba(255,255,255,.22)}.brand-mark img{width:100%;height:100%;object-fit:contain;display:block}.brand-title{font-weight:900;letter-spacing:.2px}.brand-sub{font-size:11px;color:#d0d0d0;margin-top:2px}.icon-btn{border:1px solid #3a3a3a;background:#1d1d1d;color:#fff;width:40px;height:40px;border-radius:12px;font-size:20px}.icon-btn:active{background:var(--accent);border-color:var(--accent)}.app-shell{max-width:980px;margin:0 auto;padding:0 18px 100px}.view{display:none}.view.active{display:block}.hero{margin:18px 0 26px;padding:30px 22px 24px;border-radius:28px;background:var(--dark);color:#fff;position:relative;overflow:hidden}.hero:after{content:"";position:absolute;width:210px;height:210px;border:1px solid rgba(227,27,35,.55);border-radius:50%;right:-80px;top:-90px;box-shadow:0 0 0 25px rgba(227,27,35,.07),0 0 0 50px rgba(227,27,35,.035)}.eyebrow{font-size:10px;letter-spacing:2px;color:var(--accent);font-weight:800;margin-bottom:14px}.hero h1{font-size:42px;line-height:1.05;margin:0 0 10px;letter-spacing:-1.5px}.hero h1 span{color:var(--accent)}.hero p{color:#bbb;margin:0 0 22px;font-size:14px}.search-wrap{height:56px;border-radius:17px;background:#fff;color:#111;display:flex;align-items:center;padding:0 14px;position:relative;z-index:2}.search-icon{font-size:27px;margin-right:8px;color:#666}.search-wrap input{border:0;outline:0;flex:1;font-size:16px;background:transparent}.clear-btn{border:0;background:#eee;width:28px;height:28px;border-radius:50%;font-size:20px;color:#555}.section{margin:24px 0}.section-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}.section-head h2{font-size:18px;margin:0}.section-head span{font-size:12px;color:var(--muted)}.category-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.category-card{border:1px solid var(--line);background:var(--card);border-radius:18px;padding:16px;text-align:left;min-height:94px;transition:.15s}.category-card:active{transform:scale(.98)}.category-card:hover{border-color:rgba(227,27,35,.5)}.category-card .num{font-size:11px;color:var(--accent);font-weight:900}.category-card h3{margin:8px 0 3px;font-size:16px}.category-card p{margin:0;color:#888;font-size:12px}.category-card:last-child{grid-column:1/-1}.chips{display:flex;gap:8px;overflow:auto;padding-bottom:4px;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}.chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:9px 13px;white-space:nowrap;font-size:12px;color:#555}.chip.active{background:var(--accent);color:#fff;border-color:var(--accent)}.branch-list{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.branch-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:15px;text-align:left;transition:.15s}.branch-card:hover{border-color:rgba(227,27,35,.45)}.branch-card .code{font-size:11px;color:#999;font-weight:800}.branch-card h3{margin:6px 0 7px;font-size:14px;line-height:1.25}.branch-card .region{font-size:12px;color:#777}.branch-card .price{margin-top:12px;font-size:12px;color:#555}.branch-card .price b{font-size:17px;color:var(--accent-dark)}.empty{padding:28px 15px;text-align:center;color:#888;background:#fff;border-radius:18px;border:1px dashed #ddd}.notice{margin-top:26px;padding:15px 16px;border-radius:16px;background:var(--soft-red);border:1px solid #ffd7d9;color:#555;display:grid;gap:4px;font-size:12px}.notice strong{color:#222}.notice small{color:#888}.back-btn{margin:18px 0 10px;border:0;background:transparent;padding:6px 0;font-weight:800;color:var(--accent-dark)}.page-title{font-size:30px;line-height:1.1;margin:4px 0 7px}.page-sub{color:#777;margin:0 0 18px;font-size:13px}.plan-card{background:#fff;border:1px solid var(--line);border-radius:20px;padding:16px;margin:10px 0}.plan-card h3{font-size:16px;margin:0 0 14px}.plan-table{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.term{background:#f7f7f7;border-radius:14px;padding:12px;border-top:3px solid var(--accent)}.term small{display:block;color:#888;font-size:11px}.term .fee{margin-top:6px;font-size:11px;color:#666}.term .fee b{font-size:14px;color:#111}.term .monthly{margin-top:4px;font-size:20px;font-weight:900;color:var(--accent-dark)}.term .monthly span{font-size:11px;color:#777;font-weight:500}.branch-head{background:linear-gradient(135deg,#111 0%,#171717 72%,#321013 100%);color:#fff;border-radius:24px;padding:22px;margin-top:6px;border-bottom:4px solid var(--accent)}.branch-head .tag{color:var(--accent);font-size:11px;font-weight:800;letter-spacing:1px}.branch-head h1{font-size:28px;margin:8px 0 3px}.branch-head p{margin:0;color:#aaa;font-size:13px}.info-grid{display:grid;grid-template-columns:1fr;gap:10px;margin:12px 0}.info-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:15px}.info-card .label{font-size:11px;color:#999;font-weight:800}.info-card .value{margin-top:6px;font-size:13px;line-height:1.5;white-space:pre-wrap}.bottom-nav{position:fixed;z-index:30;bottom:0;left:0;right:0;height:70px;background:rgba(255,255,255,.94);border-top:1px solid var(--line);backdrop-filter:blur(14px);display:flex;justify-content:center;gap:50px;padding-bottom:env(safe-area-inset-bottom)}.nav-item{border:0;background:transparent;color:#999;display:grid;place-items:center;min-width:60px;padding:8px 10px}.nav-item span{font-size:22px;line-height:22px}.nav-item small{font-size:10px;margin-top:4px}.nav-item.active{color:var(--accent);font-weight:900}.loading{text-align:center;padding:50px;color:#888}@media(min-width:700px){.category-grid{grid-template-columns:repeat(5,1fr)}.category-card:last-child{grid-column:auto}.branch-list{grid-template-columns:repeat(3,1fr)}.hero{padding:42px 36px}.hero h1{font-size:58px}.plan-card{padding:20px}}
+
+/* 手機版：縮短首頁主視覺，讓搜尋結果更快出現在畫面中 */
+@media (max-width:900px){
+  .hero{
+    margin:10px 0 14px;
+    padding:14px 16px 14px;
+    border-radius:24px;
+  }
+  .eyebrow{
+    margin-bottom:10px;
+  }
+  .hero h1{
+    font-size:28px;
+    line-height:1.06;
+    margin:0 0 8px;
+    letter-spacing:-1px;
+  }
+  .hero p{
+    margin:0 0 10px;
+    font-size:13px;
+  }
+  .search-wrap{
+    height:44px;
+    border-radius:15px;
+  }
+  .search-wrap input{
+    font-size:15px;
+  }
+  .hero:after{
+    width:150px;
+    height:150px;
+    right:-55px;
+    top:-65px;
+  }
+  .section{
+    margin:18px 0;
+  }
+}
+
+/* 分店詳情：停車與設備上下排列，停車資訊較精簡 */
+.info-grid .info-card:first-child{padding:12px 15px;}
+.info-grid .info-card:first-child .value{margin-top:4px;}
+.info-grid .info-card:last-child{padding:15px;}
